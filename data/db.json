@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipiscing elit non, vivamus magna at aliquet nec egestas eu phasellus, pretium a tellus conubia facilisi per tortor. Enim sed litora nostra vulputate sociosqu quam quisque, aptent praesent quis lobortis justo diam et, in convallis mollis nibh penatibus etiam.",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipiscing elit non, vivamus magna at aliquet nec egestas eu phasellus, pretium a tellus conubia facilisi per tortor. Enim sed litora nostra vulputate sociosqu quam quisque, aptent praesent quis lobortis justo diam et, in convallis mollis nibh penatibus etiam.",
+      "tags": ["css", "webdev", "coding"]
+    },
+    {
+      "title": "Trial23",
+      "body": "Blah Blah",
+      "tags": ["test23", "test24"],
+      "id": 3
+    }
+  ]
+}
